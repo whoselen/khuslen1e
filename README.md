@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @khuslen1e
 - 👀 I’m interested in web development and interesting technologies around it!
-- 🌱 I’m currently learning graphQL
 - 📫 How to reach me benkyoumasho@gmail.com
 
 <!---
